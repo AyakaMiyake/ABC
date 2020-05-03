@@ -6,3 +6,4 @@ ansli.remove(A)
 ansli.remove(B)
 
 print(ansli[0])
+
